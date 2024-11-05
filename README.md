@@ -3,7 +3,7 @@
 To create a classifier using specialized layers for text data such as Embedding and GlobalAveragePooling1D.
 
 ## PROBLEM STATEMENT AND DATASET
-The program enables us to classify the given BBC dataset into its respective areas like different categories, for example buisness, sports and tech using Deep learning techniques, which includes loading and preprocessing the data, creating the neural network model, training and evaluation its performance.
+The program enables us to classify the given BBC dataset into its respective areas like different categories, for example buisness, sports and tech using Deep learning techniques, which includes loading and preprocessing the data, creating the neural network model, training and evaluation its performance. 
 ## Dataset
 
 ![376114664-325f2f74-2059-480f-a8e7-3c7f6b0bcf12](https://github.com/user-attachments/assets/8a9214f7-f1fa-4895-af53-579733d54ef1)
